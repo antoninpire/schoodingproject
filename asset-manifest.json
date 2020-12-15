@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/schoodingproject/static/css/main.59a2abdd.chunk.css",
+    "main.js": "/schoodingproject/static/js/main.d8905f3c.chunk.js",
+    "main.js.map": "/schoodingproject/static/js/main.d8905f3c.chunk.js.map",
+    "runtime-main.js": "/schoodingproject/static/js/runtime-main.6d3b7ffc.js",
+    "runtime-main.js.map": "/schoodingproject/static/js/runtime-main.6d3b7ffc.js.map",
+    "static/js/2.c3bf5e39.chunk.js": "/schoodingproject/static/js/2.c3bf5e39.chunk.js",
+    "static/js/2.c3bf5e39.chunk.js.map": "/schoodingproject/static/js/2.c3bf5e39.chunk.js.map",
+    "index.html": "/schoodingproject/index.html",
+    "static/css/main.59a2abdd.chunk.css.map": "/schoodingproject/static/css/main.59a2abdd.chunk.css.map",
+    "static/js/2.c3bf5e39.chunk.js.LICENSE.txt": "/schoodingproject/static/js/2.c3bf5e39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d3b7ffc.js",
+    "static/js/2.c3bf5e39.chunk.js",
+    "static/css/main.59a2abdd.chunk.css",
+    "static/js/main.d8905f3c.chunk.js"
+  ]
+}
